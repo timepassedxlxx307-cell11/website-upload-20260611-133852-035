@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "html_files": 2016,
+  "detail_files": 2000,
+  "analytics_missing": [],
+  "category_covered_movies": 2000,
+  "internal_missing": [],
+  "jpg_files": [],
+  "categories": {
+    "热播精选": 200,
+    "新片速递": 200,
+    "高清剧集": 200,
+    "经典回顾": 200,
+    "悬疑剧场": 200,
+    "都市情感": 200,
+    "喜剧家庭": 200,
+    "动作冒险": 200,
+    "国际佳作": 200,
+    "年度片单": 200
+  }
+}
